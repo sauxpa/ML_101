@@ -10,6 +10,10 @@ Elementary gridworld environments and standard, exact RL algo to solve the under
 
 Showcase of scikit-learn classifier on the circle dataset.
 
+## graphs
+
+Demo scripts for graphs in ML. Graph neural networks using dgl and torch.
+
 ## lasso 
 
 Tensorflow implementation of Lasso regression, with plots to track the sparsity of regularized predictors.
