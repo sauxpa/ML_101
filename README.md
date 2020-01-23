@@ -18,6 +18,10 @@ Demo scripts for graphs in ML. Graph neural networks using dgl and torch.
 
 Tensorflow implementation of Lasso regression, with plots to track the sparsity of regularized predictors.
 
+## probabilistic_ml_101
+
+Examples of classification (Linear, Logistic, LDA, QDA), clustering (KMeans, EM), and approximate inference (Gibbs sampling, mean field variational inference) implemented from scratch using Numpy. Inspired from Bishop's [**Pattern Recognition and Machine Learning**](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf).
+
 ## Misc
 
 * Discrete Random Number Generator: comparison of numpy.rd.choice vs manually implemented generators (using only numpy.rd.uniform).
