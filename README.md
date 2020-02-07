@@ -32,4 +32,6 @@ Examples of classification (Linear, Logistic, LDA, QDA), clustering (KMeans, EM)
 
 * Temporal regularization in MDP : study of an article (https://arxiv.org/pdf/1811.00429.pdf) about solving MDP by optimizing simultaneously the orignal and time-reversed chains. This leads to a biased yet typically lower variance solution.
 
+* lazy_training_nn : investigate generalization power of lazy training (training only a subset of available layers, considering the rest as randomly generated features) on a high-dimensional regression problem.
+
 * reservoir_sampling : toy example of a sampling technique from an array of unknown size.
