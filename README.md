@@ -6,6 +6,8 @@
 
 Elementary gridworld environments and standard, exact RL algo to solve the underlying MDP (SARSA, Q-Learning, with or without experience replay).
 
+* To install * : download sources, then pip install -e . in the folder.
+
 ## circle_classificaiton
 
 Showcase of scikit-learn classifier on the circle dataset.
