@@ -12,6 +12,9 @@ Elementary gridworld environments and standard, exact RL algo to solve the under
 
 Showcase of scikit-learn classifier on the circle dataset.
 
+<img src="./circle_classification/circular_classification_no_noise.jpg"
+     style="float: left; margin-right: 10px;" />
+     
 ## graphs
 
 Demo scripts for graphs in ML. Graph neural networks using dgl and torch.
